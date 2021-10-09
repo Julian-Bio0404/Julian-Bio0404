@@ -4,8 +4,10 @@ Soy Julian Hermida, Biólogo y Backend developer. Tengo curiosidad por como func
 Me gusta los nuevos retos en los que me permitan estar aprendiendo continuamente. Si tienes alguna idea interesante y crees que te puedo ayudar, 
 no dudes en contar conmigo para hacer equipo.
 
+Actualmente me encuentro aprendiendo Golang y un poco sobre DevOps
+
 ### Tech skills
-[]()<img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=FFD43B&style=for-the-badge"/>
+[]()<img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=306998&style=for-the-badge"/>
 <img alt="Django" src="https://img.shields.io/badge/Django-black?logo=django&logoColor=093C02&style=for-the-badge"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=for-the-badge"/>
 <img alt="Postgres" src="https://img.shields.io/badge/Postgres-black?logo=postgresql&logoColor=015E8C&style=for-the-badge"/>
