@@ -1,10 +1,10 @@
 ### print('Hello World!') 👋
 
-Soy Julian Hermida, Biólogo y Backend developer. Tengo curiosidad por como funciona la vida a nivel molecular y la tecnología. 
-Me gusta los nuevos retos en los que me permitan estar aprendiendo continuamente. Si tienes alguna idea interesante y crees que te puedo ayudar, 
-no dudes en contar conmigo para hacer equipo.
+I'm Julian Hermida, Biologist and backend developer. I have curious about how works the life to molecular level and the tecnology.
+I like the new challenges that allow me be to learning continuously. If you have some interesting idea and you believe that I can help you,
+don't hesitate to count with me to team up.
 
-Actualmente me encuentro aprendiendo Golang y un poco sobre DevOps
+I am currently learning Golang and a bit about DevOps
 
 ### Tech skills
 []()<img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=306998&style=for-the-badge"/>
@@ -17,10 +17,10 @@ Actualmente me encuentro aprendiendo Golang y un poco sobre DevOps
 <img alt="Postman" src="https://img.shields.io/badge/Postman-black?logo=postman&logoColor=EF5B25&style=for-the-badge"/>
 
 
-### Intereses personales
-- 🥋 Practico karate desde hace 10 años
-- 📚 Me gusta leer, en especial las novelas clásicas o policiacas
-- :dolls: Amo el anime y los videojuegos
+### Personal interests
+- 🥋 I practice karate-do from 10 years ago
+- 📚 I like read, specially the classic or detective novels 
+- :dolls: I love anime and videogames
 
-### Contactame
+### Contact me
 [<img align="left" alt="julianhermida | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/julian-camilo-hermida-delgado-09751120b/)
