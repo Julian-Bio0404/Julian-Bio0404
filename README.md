@@ -4,7 +4,7 @@ I'm Julian Hermida, Biologist and backend developer. I have curious about how wo
 I like the new challenges that allow me be to learning continuously. If you have some interesting idea and you believe that I can help you,
 don't hesitate to count with me to team up.
 
-I am currently learning Golang and a bit about DevOps
+I am currently learning microservices architecture, Golang and a bit about DevOps
 
 ### Tech skills
 []()<img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=306998&style=for-the-badge"/>
@@ -18,7 +18,7 @@ I am currently learning Golang and a bit about DevOps
 
 
 ### Personal interests
-- 🥋 I practice karate-do from 10 years ago
+- 🥋 I practice karate-do since 10 years ago
 - 📚 I like read, specially the classic or detective novels 
 - :dolls: I love anime and videogames
 
