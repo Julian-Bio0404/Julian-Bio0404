@@ -14,12 +14,13 @@ I am currently learning microservices architecture, Golang and a bit about DevOp
 <img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=F1502F&style=for-the-badge"/>
 <img alt="Celery" src="https://img.shields.io/badge/Celery-black?logo=celery&logoColor=B5EB51&style=for-the-badge"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=0db7ed&style=for-the-badge"/>
+<img alt="Travis" src="https://img.shields.io/badge/Travis-black?logo=travis&style=for-the-badge"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-black?logo=postman&logoColor=EF5B25&style=for-the-badge"/>
 
 
 ### Personal interests
 - 🥋 I practice karate-do since 10 years ago
-- 📚 I like read, specially the classic or detective novels 
+- 📚 I like reading, specially the classic or detective novels 
 - :dolls: I love anime and videogames
 
 ### Contact me
