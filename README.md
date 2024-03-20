@@ -9,19 +9,21 @@ I am currently learning microservices architecture and a bit about DevOps
 ### Tech skills
 []()<img alt="Python" src="https://img.shields.io/badge/Python-black?logo=python&logoColor=306998&style=for-the-badge"/>
 <img alt="Django" src="https://img.shields.io/badge/Django-black?logo=django&logoColor=093C02&style=for-the-badge"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-black?logo=fastAPI&logoColor=269086&style=for-the-badge"/>
 <img alt="Graphql" src="https://img.shields.io/badge/graphql-black?logo=graphql&logoColor=F646C6&style=for-the-badge"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white&style=for-the-badge"/>
 <img alt="Postgres" src="https://img.shields.io/badge/Postgres-black?logo=postgresql&logoColor=015E8C&style=for-the-badge"/>
+<img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-black?logo=elasticsearch&logoColor=00bfb3&style=for-the-badge"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?logo=MongoDB&logoColor=4faa41&style=for-the-badge"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=F1502F&style=for-the-badge"/>
 <img alt="Celery" src="https://img.shields.io/badge/Celery-black?logo=celery&logoColor=B5EB51&style=for-the-badge"/>
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-black?logo=pandas&logoColor=EF5B25&style=for-the-badge"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-black?logo=docker&logoColor=0db7ed&style=for-the-badge"/>
-<img alt="Travis" src="https://img.shields.io/badge/Travis-black?logo=travis&style=for-the-badge"/>
 <img alt="Postman" src="https://img.shields.io/badge/Postman-black?logo=postman&logoColor=EF5B25&style=for-the-badge"/>
 
 
 ### Personal interests
-- 🥋 I practice karate-do since 11 years ago
+- 🥋 I practice karate-do since 12 years ago
 - 📚 I like reading, specially the classic or detective novels 
 - :dolls: I love anime and videogames
 
